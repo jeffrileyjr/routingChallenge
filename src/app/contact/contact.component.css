@@ -1,0 +1,11 @@
+.card {
+  left: 50%;
+  transform: translateX(-50%);
+}
+a {
+  text-decoration: none;
+  font-weight: 600;
+}
+a:hover {
+  color: darkslategray;
+}

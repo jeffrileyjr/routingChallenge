@@ -1,0 +1,17 @@
+nav {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 5px;
+  display: flex;
+  justify-content: space-around;
+}
+a {
+  color: rgb(17, 126, 44);
+  font-size: 25px;
+  font-weight: 800;
+}
+a:hover {
+  text-decoration: none;
+  color: mediumspringgreen;
+}

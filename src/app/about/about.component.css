@@ -1,0 +1,15 @@
+div {
+  position: relative;
+  opacity: 0.8;
+  left: 50%;
+  transform: translateX(-90%);
+  width: 25%;
+  height: 30%;
+  border-radius: 5%;
+  background-color: slategrey;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: azure;
+  margin: 10%;
+}
